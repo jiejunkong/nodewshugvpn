@@ -1,4 +1,6 @@
 <div align="center">
+(原作者的branch和tag管理混乱，这个软件在6天前被他改过以后不工作了，建议不要碰)
+
 
 # Node-ws
 基于serverless实现的vless+trojan双协议代理,轻量，无内核。
